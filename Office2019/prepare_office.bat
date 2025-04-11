@@ -1,0 +1,1 @@
+C:\hotnc\Office2019\setup.exe /download officestd2019.xml

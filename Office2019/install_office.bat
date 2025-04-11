@@ -1,0 +1,1 @@
+c:\hotnc\Office2019\setup /configure c:\hotnc\office2019\officestd2019.xml
